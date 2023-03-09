@@ -22,12 +22,36 @@
       padding:10px;
       background-color:silver;
       font-size:25px;
+      font-weight:bold;
+   }
+   h1{
+   display:inline-block;
+  background-color:#00BFFF;    
+  margin-left:550px ;
+  width: 200px;
+  padding: 5px;
    }
     #re{
-      float:center;
-      text-align:center;
-      padding:10px;
-      background-color:silver;
+      display:inline-block;
+      background-color:silver;    
+  margin-left:600px;
+  width: 100px;
+  border: 3px solid green;
+  padding: 5px;
+  font-weight:bold;
+   }
+  div{
+    padding: 0;
+    margin: 10px;
+    display: inline;
+   }
+   table{
+     text-align:justify;
+     font-size:20px;
+     font-weight: bold;
+     background-color:#00CED1;
+     padding: 50px;
+     margin:0px;
    }
 </style>
 <title>Calculator</title>
